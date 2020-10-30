@@ -10,13 +10,6 @@ package prueba_proyecto;
  * @author Sara
  */
 public class personas {
-    System.out.println("hola");
-    //hola que pasa guapas
-   
-    
-    
-    
-    
-    
+    System.out.println("ROberto malparido");
     
 }
